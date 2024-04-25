@@ -30,8 +30,8 @@
   <!-- ## General Information -->
 
   <!-- Begin with your product name, website, and miscellaneous information. -->
-  <title>Shapebreaker - Tower Defense Deckbuilder</title>
-  <website>https://tinyurl.com/shapebreaker</website>
+  <title>Duel Champions - Roguelike Deckbuilder</title>
+  <website>https://tinyurl.com/SteamDuelChampions</website>
 
   <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. -->
   <!-- <press-copy-request>
@@ -58,8 +58,7 @@
 
   <!-- Add as many dates, platforms and prices as needed. -->
   <release-dates>
-    <release-date>Early Acces: July 19, 2022</release-date>
-    <release-date>Full Release: May 2, 2023</release-date>
+    <release-date>Release: Q4 2024</release-date>
   </release-dates>
 
   <!--
@@ -70,19 +69,15 @@
   <platforms>
     <platform>
       <name>Steam</name>
-      <link>https://store.steampowered.com/app/1924010/Shapebreaker__Tower_Defense_Deckbuilder/</link>
+      <link>https://store.steampowered.com/app/2924990/Duel_Champions__Roguelike_Deckbuilder/</link>
     </platform>
   </platforms>
 
   <!-- Show the price of your product. Try to be exhaustive, it will be helpful for a reviewer. -->
   <prices>
       <price>
-      <currency>Full Release: USD</currency>
-      <value>5.99</value>
-    </price>
-    <price>
-      <currency>Full Release: EUR</currency>
-      <value>5.89</value>
+      <currency>Release: USD</currency>
+      <value>2.99</value>
     </price>
   </prices>
 
@@ -125,7 +120,7 @@
 
   <!-- Describe your product here. Be brief. -->
   <description>
- A fusion of tower defense games and roguelike deckbuilders. Use your cards to build towers and to upgrade them in unique ways. Gain rewards to customize your deck, defense and playstyle. Break the shapes before they break you!
+ A Roguelike Deckbuilder inspired by Trading Card games. Play duels, open booster packs and build decks with powerful synergies. Choose your cards and opponents wisely. Ready to duel?
   </description>
 
   <!--
@@ -141,11 +136,9 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-	Alexander is a big fan of both the Tower Defense genre and Roguelike Deckbuilders. The idea of combining these two genres led to the development of Shapebreaker which started in November 2021. Early prototypes of the game were very well received. This led to the game quickly moving to Itch.io, resulting in a first wave of fans and players. 
-	
-	Alexander strongly believes that early feedback from players is essential to making a game the best it can be. An active Discord server and in-game feedback feature have proven invaluable during further development of the game. In order to gather even more feedback, it was released in Early Access on July 19, 2022.
-	
-	After having spend 10 months in Early Access the game is now ready to exit Early Access on May 2, 2023
+	Alexander is a big fan of both Roguelike Deckbuilders like Slay the Spire and Trading Card games like Magic: The Gathering and Yu-Gi-Oh. The idea of packaging a solo Trading Card Game experience into a Roguelike Deckbuilder started January 2024. Early prototypes of the game were very well received by playtesters and the Itch.io community.
+
+	The game is scheduled to be released Q4 2024 on Steam.
   </history>
 
   <!-- ## Features -->
@@ -157,19 +150,16 @@
   -->
   <features>
     <feature>
-      Card-based defense: Play cards to build and improve towers.
+      Deckbuilding: Builds decks with potent synergies.
     </feature>
     <feature>
-      Deckbuilding: Gain rewards to customize your deck, defense and playstyle.
+      Booster packs: Open booster packs to obtain exciting new cards.
     </feature>
     <feature>
-      Build unique towers: Create unique towers by combining them with different modules and elements.
+      Procedurally generated cards: Encounter new cards on every playthrough.
     </feature>
     <feature>
-      Mazing: Enemies will try to head straight to your core, but don't let them. Choose the position of your towers wisely to create the perfect maze.
-    </feature>
-	 <feature>
-     Unique playthroughs: Every playthrough contains distinct rewards, areas and enemies.
+      Trading Card Game Simulator: Experience the joy of Trading Card Games without having to spend real-world currency on booster packs.
     </feature>
   </features>
 
@@ -189,11 +179,12 @@
     ```
   -->
   <trailers>
-    <trailer>
+    <!-- <trailer>
       <name>Shapebreaker - Official Launch Trailer</name>
       <youtube>oiP4jqWhWP0</youtube>	  	  
-    </trailer>
-  </trailers>
+    </trailer> -->
+  </trailers> 
+
 
   <!-- ## Widgets -->
 
@@ -329,7 +320,11 @@
   <credits>
     <credit>
       <person>Alexander Van den Bulck</person>
-      <role>Game Design, Programming, Art, Marketing</role>
+      <role>Game Design, Programming, Marketing</role>
+	</credit>      
+	<credit>
+      <person>Harry Lane</person>
+      <role>Art design</role>
     </credit>
   </credits>
 
@@ -348,13 +343,13 @@
     <contact>
       <name>Discord</name>
       <link>
-        https://discord.gg/EKxcb63DvP
+        https://discord.gg/RdZJAVXWW5
       </link>
     </contact>
     <contact>
       <name>Web</name>
       <link>
-        https://store.steampowered.com/app/1924010/Shapebreaker__Tower_Defense_Deckbuilder/
+        https://store.steampowered.com/app/2924990/Duel_Champions__Roguelike_Deckbuilder/
       </link>
     </contact>
   </contacts>
