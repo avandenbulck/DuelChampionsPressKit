@@ -77,7 +77,7 @@
   <prices>
       <price>
       <currency>Release: USD</currency>
-      <value>2.99</value>
+      <value>1.99</value>
     </price>
   </prices>
 
@@ -120,7 +120,7 @@
 
   <!-- Describe your product here. Be brief. -->
   <description>
- A Roguelike Deckbuilder inspired by Trading Card games. Play duels, open booster packs and build decks with powerful synergies. Choose your cards and opponents wisely. Ready to duel?
+Play quick card duels, open booster packs to discover new cards with powerful synergies and build your best deck in this Singleplayer Roguelike Deckbuilder inspired by Trading Card Games.
   </description>
 
   <!--
@@ -138,7 +138,7 @@
   <history>
 	Alexander is a big fan of both Roguelike Deckbuilders like Slay the Spire and Trading Card games like Magic: The Gathering and Yu-Gi-Oh. The idea of packaging a solo Trading Card Game experience into a Roguelike Deckbuilder started January 2024. Early prototypes of the game were very well received by playtesters and the Itch.io community.
 
-	The game is scheduled to be released Q4 2024 on Steam.
+	A living demo of the game will be released on Steam on August 22 2024. The living demo will continue to receive updates until the full release of the game in Q4 2024.
   </history>
 
   <!-- ## Features -->
@@ -150,16 +150,19 @@
   -->
   <features>
     <feature>
-      Deckbuilding: Builds decks with potent synergies.
+      Trading Card Game Simulator: Experience the joy of Trading Card Games without having to spend real-world currency on booster packs.
     </feature>
     <feature>
       Booster packs: Open booster packs to obtain exciting new cards.
     </feature>
     <feature>
-      Procedurally generated cards: Encounter new cards on every playthrough.
+      Card market: Buy and sell cards but make sure it's the right decision for your card collection.
     </feature>
     <feature>
-      Trading Card Game Simulator: Experience the joy of Trading Card Games without having to spend real-world currency on booster packs.
+      Runic Powers: Powerful upgrades that give you various advantages.
+    </feature>
+    <feature>
+      Deckbuilding: Builds decks with potent synergies.
     </feature>
   </features>
 
